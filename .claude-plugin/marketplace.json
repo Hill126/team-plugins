@@ -9,8 +9,8 @@
       "name": "drug-marketing-strategy",
       "description": "药品社媒投放策略分析：输入药品名，输出完整的社媒投放策略报告。",
       "source": {
-        "source": "github",
-        "repo": "Alvinxie323716/drug-marketing-strategy"
+        "source": "url",
+        "url": "https://github.com/Alvinxie323716/drug-marketing-strategy.git"
       }
     }
   ]
