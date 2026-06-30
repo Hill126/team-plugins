@@ -12,6 +12,54 @@
         "source": "url",
         "url": "https://github.com/Alvinxie323716/drug-marketing-strategy.git"
       }
+    },
+    {
+      "name": "pharma-marketing-skills",
+      "description": "药品外投全流程技能合集（策略+筛选+内容+比价+编排）",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/shouldran1814490498-svg/-skill.git"
+      }
+    },
+    {
+      "name": "drug-strategy-generator",
+      "description": "药品社媒投放策略生成",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/shouldran1814490498-svg/-skill.git#skill/strategy"
+      }
+    },
+    {
+      "name": "kol-screening-dashboard",
+      "description": "医生达人筛选与预算分配看板",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/shouldran1814490498-svg/-skill.git#skill/kol-screen"
+      }
+    },
+    {
+      "name": "xhs-content-generator",
+      "description": "小红书达人笔记生成与合规审核",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/shouldran1814490498-svg/-skill.git#skill/xhs"
+      }
+    },
+    {
+      "name": "external-quote-audit",
+      "description": "外投PO报价核验",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/shouldran1814490498-svg/-skill.git#skill/quote"
+      }
+    },
+    {
+      "name": "pharma-pipeline",
+      "description": "外投全流程编排（串联上述skill）",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/shouldran1814490498-svg/-skill.git#skill/pipeline"
+      }
     }
   ]
 }
